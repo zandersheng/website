@@ -66,7 +66,7 @@ cv:
         start_date: 2020
         end_date: ""
         highlights:
-        - "Courses Taught:"
+        - Courses Taught:
           -	"ECON 3010 - Intermediate Microeconomics (Head TA)"
           - "ECON 3020 - Intermediate Macroeconomics"
           - "ECON 3030 - Money and Banking"
@@ -122,7 +122,7 @@ cv:
           - Xuran Alex Sheng
         releaseDate: 2026
         url: ""
-        summary: This paper develops a task-based model in which heterogeneous software tasks are allocated across human, reasoning-assisted, and agentic workflows. The model shows that when agentic compute costs grow faster than labor savings, agentic coding is eventually excluded for sufficiently complex tasks. Under additional restrictions, optimal agentic usage is concentrated within an intermediate or low complexity region. Initial compute capacity shifts tasks from unaided human production to reasoning-assisted workflows, while additional capacity  expands agentic coding. Even when the compute constraint ceases to bind, reasoning remains optimal for a subset of tasks. The results highlight task composition and internal compute governance as central determinants of organizational AI adoption.
+        summary: This paper develops a task based model in which heterogeneous software tasks are allocated across human, reasoning-assisted, and agentic workflows. The model shows that when agentic compute costs grow faster than labor savings, agentic coding is eventually excluded for sufficiently complex tasks. Under additional restrictions, optimal agentic usage is concentrated within an intermediate or low complexity region. Initial compute capacity shifts tasks from unaided human production to reasoning-assisted workflows, while additional capacity  expands agentic coding. Even when the compute constraint ceases to bind, reasoning remains optimal for a subset of tasks. The results highlight task composition and internal compute governance as central determinants of organizational AI adoption.
     Skills:
       - name: Asset Pricing
         level: Master
