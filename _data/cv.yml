@@ -66,14 +66,14 @@ cv:
         start_date: 2020
         end_date: ""
         highlights:
-        - | 
-          Courses Taught:
-          -	"ECON 3010 - Intermediate Microeconomics (Head TA)"
-          - "ECON 3020 - Intermediate Macroeconomics"
-          - "ECON 3030 - Money and Banking"
-          - "ECON 4720 - Econometric Methods"
-          - "MATH 4140 - Mathematics of Derivative Securities"
-          - "MATH 4110 - Introduction to Stochastic Processes"
+        - |
+            Courses Taught:
+            - ECON 3010 - Intermediate Microeconomics (Head TA)
+            - ECON 3020 - Intermediate Macroeconomics
+            - ECON 3030 - Money and Banking
+            - ECON 4720 - Econometric Methods
+            - MATH 4140 - Mathematics of Derivative Securities
+            - MATH 4110 - Introduction to Stochastic Processes
 
     Volunteer:
       - company: UVA Club Billiards Team
