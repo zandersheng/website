@@ -23,33 +23,31 @@ cv:
       - institution: University of Virginia
         location: Charlottesville, Virginia
         url: https://www.uva.edu/
-        area: Physics
+        area: Economics, Finance, Real Estate
         studyType: PhD
         start_date: 
         end_date: 2027
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+
 
       - institution: University of Wisconsin
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+        location: Madison, Wisconsin
+        area: Economics, Mathematics, Computer Science, Studio Arts
+        studyType: Bachelors of Arts 
+        start_date: 2015
+        end_date: 2019
         highlights:
-          - Description 1.
-          - Description 2.
+          - Graduated with Honors
 
     Experience:
       - company: Nike
         position: PhD Research Fellow, 
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        location: Beaverton, OR
+        start_date: 2024
+        end_date: 2025
+        summary: Research fellow at the Global Places and Strategy division
         highlights:
           - Developed a new pricing model incorporating the effect of future rent increase to help the leaders make decision when acquiring new properties
           - Working with the research team to study the utilization and costs of meeting spaces and relationship between co-location and in person meetings using sensor data and Outlook data
@@ -57,43 +55,34 @@ cv:
           - Spearhead the AI/ML adoption and workflow within the GPS and the research team
 
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: University of Virginia
+        position: Graduate Research Assistant
+        location: Charlottesville, VA
+        start_date: 2019
+        end_date: 2024
         highlights:
           - Description 1.
           - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: University of Virginia
+        position: Graduate Teaching Assistant
+        location: Charlottesville, VA
+        start_date: 2020
+        end_date: 
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: UVA Club Billiards Team
+        position: Captain
+        location: Charlottesville, VA
+        start_date: 2019
+        end_date: 
+        summary: Leading the UVA Club Billiards Team in victories for the past 6 years
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Leading team to the Virginian Cup victory and 2 other tournaments every semester
+          -	Winner of the Collegiate 9 Ball Tour in 2024, 2025, and 2026
+
 
     Awards:
       - title: Nike PhD Fellowship
