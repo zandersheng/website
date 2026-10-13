@@ -66,7 +66,8 @@ cv:
         start_date: 2020
         end_date: ""
         highlights:
-        - Courses Taught:
+        - | 
+          Courses Taught:
           -	"ECON 3010 - Intermediate Microeconomics (Head TA)"
           - "ECON 3020 - Intermediate Macroeconomics"
           - "ECON 3030 - Money and Banking"
