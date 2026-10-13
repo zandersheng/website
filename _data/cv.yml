@@ -29,7 +29,7 @@ cv:
         end_date: 2027
         score: ""
         courses: ""
-        highlights:
+        highlights:""
 
 
       - institution: University of Wisconsin
@@ -60,15 +60,14 @@ cv:
         location: Charlottesville, VA
         start_date: 2019
         end_date: 2024
-        highlights:
-          - Description 1.
-          - Description 2.
+        highlights:""
+
 
       - company: University of Virginia
         position: Graduate Teaching Assistant
         location: Charlottesville, VA
         start_date: 2020
-        end_date: 
+        end_date: ""
 
 
 
@@ -77,7 +76,7 @@ cv:
         position: Captain
         location: Charlottesville, VA
         start_date: 2019
-        end_date: 
+        end_date: ""
         summary: Leading the UVA Club Billiards Team in victories for the past 6 years
         highlights:
           - Leading team to the Virginian Cup victory and 2 other tournaments every semester
@@ -90,35 +89,34 @@ cv:
           - "Nike"
         date: 2024, 2025
         awarder: Nike, Inc
-        url: 
-        summary: 
-      - title: 
+        summary: ""
+      - title: "Real Estate Seed Grant"
         authors:
           - "White Ruffin Byron Center for Real Estate"
         date: 2025
         awarder: White Ruffin Byron Center for Real Estate
-        summary: Awarded for outstanding scientific achievement
+        summary: Awarded for the price to rent and leverages project
 
     Working Papers:
-      - title: Infrequent Trading, Asymmetrical Asset Price Volatility, and Welfare Loss
+      - title: Infrequent Trading, Asymmetrical Asset Price Volatility, and Welfare Loss (JMP)
         authors:
           - Xuran Alex Sheng
         releaseDate: 2026
-        url: 
+        url: ""
         summary: As an increasing amount of assets are subject to infrequent trading restrictions or horizon-bound illiquidity through real estate holdings, private equity lockups, household infrequent adjustment, and institutional vesting requirements. We develop a finite-horizon, continuous-time heterogeneous agent model to analyze how these explicit trading restrictions affect the risk sharing behaviors and asset prices. By modeling an economy populated by a restricted investor and a liquid market maker, we identify an endogenous liquidity squeeze. To self insure against the inability to dynamically rebalance, the restricted agent optimally holds excess equity at time 0, starving the market maker of capital and forcing them into suboptimal positions. This economic friction structurally generates excess price volatility and jump risks, resulting in block trades and yield curve jumps at the moment liquidity is restored. We map the welfare cost to demonstrate that welfare losses rely asymmetrically on the capitalization of the liquid agents rather than restriction duration. Finally, by decomposing the ex-ante welfare cost of illiquidity, I find that the danger of illiquidity is not the only inability to trade, but the endogenous price distortions it creates, resulting in an aggregate welfare loss that outweighs the classic cost of fundamental business cycles.
         
       - title: Optimal Renovation and Lease Renewal in a Principal – Agent Framework
         authors:
           - Xuran Alex Sheng
         releaseDate: 2026
-        url: 
-        summary: 
+        url: ""
+        summary: ""
         
       - title: "Rogue Agent: The Economics of Compute in Agentic Age"
         authors:
           - Xuran Alex Sheng
         releaseDate: 2026
-        url: 
+        url: ""
         summary: This paper develops a task-based model in which heterogeneous software tasks are allocated across human, reasoning-assisted, and agentic workflows. The model shows that when agentic compute costs grow faster than labor savings, agentic coding is eventually excluded for sufficiently complex tasks. Under additional restrictions, optimal agentic usage is concentrated within an intermediate or low complexity region. Initial compute capacity shifts tasks from unaided human production to reasoning-assisted workflows, while additional capacity  expands agentic coding. Even when the compute constraint ceases to bind, reasoning remains optimal for a subset of tasks. The results highlight task composition and internal compute governance as central determinants of organizational AI adoption.
     Skills:
       - name: Asset Pricing
@@ -130,12 +128,12 @@ cv:
     Interests:
       - name: Economics
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Numerical Methods, Equilibrium Models, Asset Pricing, Real Estate, Optimization Theory, Stochastic PDE"
 
 
-    Projects:
-      - name: 
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    Work in Progress:
+      - name: Price to Rent Ratio
+        summary: ""
         highlights:
           - Quantum Teleportation
           - Quantum Cryptography
@@ -144,4 +142,5 @@ cv:
 
     References:
       - name: Professor Eric Young
-      - name: Professor M
+      - name: Professor Michael Gallmeyer
+      - name: Professor Leland Farmer
