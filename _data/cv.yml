@@ -119,21 +119,7 @@ cv:
           - Xuran Alex Sheng
         releaseDate: 2026
         url: 
-        summary: This paper develops a task-based model in which heterogeneous software tasks are allocated across human, reasoning-assisted, and agentic workflows. The firm governs compute use through either an internal price or an
-aggregate quota. The model shows that when agentic compute costs grow
-faster than labor savings, agentic coding is eventually excluded for
-sufficiently complex tasks. Under additional restrictions, optimal
-agentic usage is concentrated within an intermediate or low complexity
-region.An engineer effort and AI depth problem is solved to estimate modality specific labor and compute requirements, then
-integrates those responses over empirical task-complexity distributions
-from public Jira repositories. An application to Red Hat
-shows diminishing marginal returns to compute. Initial compute
-capacity shifts tasks from unaided human production to
-reasoning-assisted workflows, while additional capacity 
-expands agentic coding. Even when the compute constraint ceases to bind,
-reasoning remains optimal for a subset of tasks. The results
-highlight task composition and internal compute governance as central
-determinants of organizational AI adoption.
+        summary: This paper develops a task-based model in which heterogeneous software tasks are allocated across human, reasoning-assisted, and agentic workflows. The model shows that when agentic compute costs grow faster than labor savings, agentic coding is eventually excluded for sufficiently complex tasks. Under additional restrictions, optimal agentic usage is concentrated within an intermediate or low complexity region. Initial compute capacity shifts tasks from unaided human production to reasoning-assisted workflows, while additional capacity  expands agentic coding. Even when the compute constraint ceases to bind, reasoning remains optimal for a subset of tasks. The results highlight task composition and internal compute governance as central determinants of organizational AI adoption.
     Skills:
       - name: Asset Pricing
         level: Master
