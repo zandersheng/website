@@ -80,12 +80,12 @@ cv:
     Volunteer:
       - company: UVA Club Billiards Team
         position: Captain
-        location: Charlottesville, VA
-        start_date: 2019
+        location: "Charlottesville, VA"
+        start_date: "2019"
         end_date: ""
-        summary: Leading the UVA Club Billiards Team in victories for the past 6 years
+        summary: "Leading the UVA Club Billiards Team in victories for the past 6 years"
         highlights:
-          - Leading team to the Virginian Cup victory and 2 other tournaments every semester
+          - "Leading team to the Virginian Cup victory and 2 other tournaments every semester"
           -	"Winner of the Collegiate 9 Ball Tour in 2024, 2025, and 2026"
 
 
@@ -93,8 +93,8 @@ cv:
       - title: Nike PhD Fellowship
         authors:
           - "Nike"
-        date: 2024, 2025
-        awarder: Nike, Inc
+        date: "2024, 2025"
+        awarder: "Nike, Inc"
         summary: ""
       - title: "Real Estate Seed Grant"
         authors:
