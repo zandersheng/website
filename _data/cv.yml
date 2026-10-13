@@ -119,9 +119,7 @@ cv:
           - Xuran Alex Sheng
         releaseDate: 2026
         url: 
-        summary: Firms adopting AI for software development must trade off engineering labor against increasing compute requirements. This paper develops a task-based model in which heterogeneous software tasks
-are allocated across human, reasoning-assisted, and agentic workflows.
-The firm governs compute use through either an internal price or an
+        summary: This paper develops a task-based model in which heterogeneous software tasks are allocated across human, reasoning-assisted, and agentic workflows. The firm governs compute use through either an internal price or an
 aggregate quota. The model shows that when agentic compute costs grow
 faster than labor savings, agentic coding is eventually excluded for
 sufficiently complex tasks. Under additional restrictions, optimal
@@ -137,41 +135,20 @@ reasoning remains optimal for a subset of tasks. The results
 highlight task composition and internal compute governance as central
 determinants of organizational AI adoption.
     Skills:
-      - name: Physics
+      - name: Asset Pricing
         level: Master
         icon: fa-solid fa-hashtag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    # Languages:
-    #   - name: German
-    #     summary: "Native speaker"
 
-    #   - name: English
-    #     summary: "Fluent"
-
-    # Interests:
-    #   - name: Physics
-    #     icon: fa-solid fa-tag
-    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
+    Interests:
+      - name: Economics
         icon: fa-solid fa-tag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
+      - name: 
         summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
         highlights:
           - Quantum Teleportation
