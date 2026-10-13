@@ -41,7 +41,7 @@ cv:
 
     Experience:
       - company: Nike
-        position: PhD Research Fellow, 
+        position: PhD Research Fellow 
         location: Beaverton, OR
         start_date: 2024
         end_date: 2025
@@ -84,7 +84,7 @@ cv:
         summary: "Leading the UVA Club Billiards Team in victories for the past 6 years"
         highlights:
           - "Leading team to the Virginian Cup victory and 2 other tournaments every semester"
-          -	"Winner of the Collegiate 9 Ball Tour in 2024, 2025, and 2026"
+          - "Winner of the Collegiate 9 Ball Tour in 2024, 2025, and 2026"
 
     Awards:
       - title: Nike PhD Fellowship
