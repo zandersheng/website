@@ -25,12 +25,10 @@ cv:
         url: https://www.uva.edu/
         area: Economics, Finance, Real Estate
         studyType: PhD
-        start_date: 
+        start_date: ""
         end_date: 2027
-        score: ""
-        courses: ""
+        courses: "Macroeconomics, Econometrics, Financial Economics, Numerical Methods, Industrial Organization"
         highlights:""
-
 
       - institution: University of Wisconsin
         location: Madison, Wisconsin
