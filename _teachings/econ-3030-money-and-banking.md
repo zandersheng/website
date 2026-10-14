@@ -2,9 +2,7 @@
 layout: teaching
 title: "ECON 3030: Money and Banking"
 description: "Teaching assistant for Money and Banking."
-terms:
-"Fall 2025"
-"Spring 2026"
+terms: "Fall 2025", "Spring 2026"
 
 permalink: /teaching/econ-3030-money-and-banking/
 ---
