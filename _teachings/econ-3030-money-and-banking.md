@@ -1,5 +1,5 @@
 ---
-layout: teaching
+layout: course
 title: "ECON 3030: Money and Banking"
 description: "Teaching assistant for Money and Banking."
 terms: "Fall 2025", "Spring 2026"
