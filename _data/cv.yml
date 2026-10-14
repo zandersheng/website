@@ -21,7 +21,7 @@ cv:
   sections:
     Education:
       - institution: University of Virginia
-        location: Charlottesville, Virginia
+        location: "Charlottesville, Virginia"
         url: https://www.uva.edu/
         area: Economics, Finance, Real Estate
         studyType: PhD
@@ -42,7 +42,7 @@ cv:
     Experience:
       - company: Nike
         position: PhD Research Fellow 
-        location: Beaverton, OR
+        location: "Beaverton, OR"
         start_date: 2024
         end_date: 2025
         summary: Research fellow at the Global Places and Strategy division
@@ -54,7 +54,7 @@ cv:
 
       - company: University of Virginia
         position: Graduate Research Assistant
-        location: Charlottesville, VA
+        location: "Charlottesville, VA"
         start_date: 2019
         end_date: 2024
         highlights:
@@ -92,7 +92,7 @@ cv:
           - "Nike"
         date: "2024, 2025"
         awarder: "Nike, Inc"
-        summary: ""
+        summary: "Nike PhD Research Fellow at the Global Places and Strategy"
       - title: "Real Estate Seed Grant"
         authors:
           - "White Ruffin Byron Center for Real Estate"
