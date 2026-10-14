@@ -15,7 +15,7 @@ cv:
     street: 248 McCormick Rd
     city: Charlottesville
     region: Virginia
-    postalCode: VA 22903
+    postalCode: 22903
     countryCode: US
 
   sections:
@@ -59,14 +59,13 @@ cv:
         end_date: 2024
         highlights:
 
-
       - company: University of Virginia
         position: Graduate Teaching Assistant
         location: Charlottesville, VA
         start_date: 2020
         end_date: ""
         highlights:
-        - |
+          - |
             Courses Taught:
             - ECON 3010 - Intermediate Microeconomics (Head TA)
             - ECON 3020 - Intermediate Macroeconomics
@@ -139,8 +138,6 @@ cv:
         highlights:
           - Quantum Teleportation
           - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
 
     References:
       - name: Professor Eric Young
