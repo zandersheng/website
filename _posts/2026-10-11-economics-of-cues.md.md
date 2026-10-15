@@ -27,10 +27,10 @@ In economics, the Law of Diminishing Marginal Returns states that at a certain p
 
 If we plot the pure *performance* of a pool cue against its price, the curve is not a smooth line—it is a staircase of distinct technological jumps that eventually hits a hard ceiling.
 
-**The Super-Cheap Baseline ($20–$100): The House Cue**
+**The Super-Cheap Baseline (\$20–\$100): The House Cue**
 At the absolute bottom, you have the warped bar cue or ultra-cheap import. The tips are rock hard, the wood is rarely straight, and deflection is massive. Performance here is arguably negative; the tool actively hurts your game. 
 
-**Decent Quality ($100–$300): The Initial Jump**
+**Decent Quality (\$100–\$300): The Initial Jump**
 Moving from a house cue to a decent entry level cue (like a Players or McDermott Lucky or Viking Vahalla) provides the highest return on investment in the sport. You are paying for a straight maple shaft, a usable leather tip, and a solid joint. At this stage, every dollar spent directly translates into consistency.
 
 **The Wood Low-Deflection Era ($300–$450): Engineering the Shot**
