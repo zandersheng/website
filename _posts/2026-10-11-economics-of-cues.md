@@ -19,7 +19,7 @@ In almost any other sport, this is unthinkable. A PGA Tour golfer does not turn 
 
 But billiards is not like other sports. The Ko brothers played with Southwest cues for a very specific reason: the subjective, tactile feedback known in the pool world simply as "the hit." 
 
-This introduces the central paradox of the billiards market. It is a space where the line between a highly engineered athletic tool and an artisan masterpiece is entirely blurred. As a result, the price range for pool cues is wider than any other sports equipment I can think of. A functional, mass-produced Chinese cue will cost you $100 to $200. A reputable professional brand with state-of-the-art technology maxes out around $1,000. But if you want a custom Southwest, or a masterpiece from a maker like Zen or Black Boar? You are looking at waitlists spanning a decade and price tags ranging from $10,000 to over $50,000. 
+This introduces the central paradox of the billiards market. It is a space where the line between a highly engineered athletic tool and an artisan masterpiece is entirely blurred. As a result, the price range for pool cues is wider than any other sports equipment I can think of. A functional, mass-produced Chinese cue will cost you \\$100 to \\$200. A reputable professional brand with state-of-the-art technology maxes out around \\$1,000. But if you want a custom Southwest, or a masterpiece from a maker like Zen or Black Boar? You are looking at waitlists spanning a decade and price tags ranging from \\$10,000 to over \\$50,000. 
 
 ## Economic Principle 1: The Staircase of Diminishing Returns
 
@@ -27,10 +27,10 @@ In economics, the Law of Diminishing Marginal Returns states that at a certain p
 
 If we plot the pure *performance* of a pool cue against its price, the curve is not a smooth line—it is a staircase of distinct technological jumps that eventually hits a hard ceiling.
 
-**The Super-Cheap Baseline (\$20–\$100): The House Cue**
+**The Super-Cheap Baseline (\\$20–\\$100): The House Cue**
 At the absolute bottom, you have the warped bar cue or ultra-cheap import. The tips are rock hard, the wood is rarely straight, and deflection is massive. Performance here is arguably negative; the tool actively hurts your game. 
 
-**Decent Quality (\$100–\$300): The Initial Jump**
+**Decent Quality (\\$100–\\$300): The Initial Jump**
 Moving from a house cue to a decent entry level cue (like a Players or McDermott Lucky or Viking Vahalla) provides the highest return on investment in the sport. You are paying for a straight maple shaft, a usable leather tip, and a solid joint. At this stage, every dollar spent directly translates into consistency.
 
 **The Wood Low-Deflection Era ($300–$450): Engineering the Shot**
