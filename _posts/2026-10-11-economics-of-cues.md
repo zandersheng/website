@@ -86,11 +86,11 @@ This introduces the economic concept of **Subjective Utility**. While a carbon f
         "text": "Price (USD) - Logarithmic Scale"
       },
       "tickvals": [50, 200, 550, 1200, 10000, 50000],
-      "ticktext": ["\$50", "\$200", "\$550 (Carbon Fiber)", "\$1.2K", "\$10K", "\$50K+"]
+      "ticktext": ["\\$50", "\\$200", "\\$550 (Carbon Fiber)", "\\$1.2K", "\\$10K", "\\$50K+"]
     },
     "yaxis": {
       "title": {
-        "text": "Objective Performance (%)"
+        "text": "Performance (%)"
       },
       "range": [0, 110]
     },
