@@ -36,14 +36,14 @@ Moving from a house cue to a decent entry level cue (like a Players or McDermott
 **The Wood Low-Deflection Era (\\$300–\\$450): Engineering the Shot**
 This is the first major technological leap. Shafts in this range (like the Predator 314 series, sitting around \\$360, or Cuetec Avid cues, starting at \\$289) introduce engineered, laminated wood or other materials. The front end of the shaft is hollowed out to reduce mass, physically reducing cue ball squirt deflection when applying side spin. You are paying for a measurable, physical advantage. This is also where the lower priced carbon fiber shafts live, like JFlowers entry level cues. 
 
-**The Carbon Fiber Ceiling (\\$450–\\$600): Maximum Utility**
+**The Carbon Fiber Shaft (\\$450–\\$600): Maximum Utility**
 Here is the most fascinating quirk of the billiards market: the absolute pinnacle of functional cue technology has a hard price ceiling. Today, aerospace grade carbon fiber composite shafts are universally recognized as the lowest-deflection equipment in the world. But whether you buy a Cuetec Cynergy (~\\$449), a Predator REVO (~\\$549), or a Mezz Ignite (~\\$599), the market for ultimate performance tops out at $600. Because the shaft contains most of the technology of the pool cue, that $600 represents the absolute maximum price of pure, objective utility.
 
 **High-End Production (\\$700–\\$2,500): The Shift to Aesthetics**
 So what happens when a player buys a high end production cue that retails for \\$1,200? If the carbon fiber shaft doing all the work only costs \\$550, what is the other $650 paying for? We have hit the point of diminishing marginal returns. That extra capital is buying a premium butt, you get. (potentially) better balance, exotic wood handles, and custom inlays. The performance gains are practically zero outside of weight and balance, but the aesthetic and craftsmanship value begins to rise.
 
 **The Custom Artisan Realm (\\$10,000–\\$50,000+): The Flatline**
-By the time we reach the realm of the \\$10,000 Southwest or the \\$50,000 Zen cue, the objective performance curve has entirely flatlined. A \\$50,000 cue does not pocket balls 50 times better than a $1,000 cue. In fact, because these luxury cues often utilize traditional solid wood shafts rather than carbon fiber, many modern professionals would mathematically shoot *worse* with a \\$30,000 masterpiece. 
+By the time we reach the realm of the \\$10,000 Southwest or the \\$50,000 Zen cue, the objective performance curve has entirely flatlined. A \\$50,000 cue does not pocket balls 50 times better than a \\$1,000 cue. In fact, because these luxury cues often utilize traditional solid wood shafts rather than carbon fiber, many modern professionals would mathematically shoot *worse* with a \\$30,000 masterpiece. 
 
 At this tier, you are no longer paying for utility. The economic value has shifted entirely to a Veblen good.
 
