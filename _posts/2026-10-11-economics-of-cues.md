@@ -58,7 +58,7 @@ This introduces the economic concept of **Subjective Utility**. While a carbon f
 ---
 
 ### Visualize the Market: Performance vs. Price
-
+```plotly
 {
   "data": [
     {
@@ -121,3 +121,5 @@ This introduces the economic concept of **Subjective Utility**. While a carbon f
     "hovermode": "closest"
   }
 }
+```
+
