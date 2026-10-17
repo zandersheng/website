@@ -59,54 +59,65 @@ This introduces the economic concept of **Subjective Utility**. While a carbon f
 
 ### Visualize the Market: Performance vs. Price
 
-<div id="pool-economics-chart" style="width:100%; height:550px;"></div>
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<script>
-  var trace1 = {
-    x: [50, 150, 360, 550, 1200, 3500, 10000, 50000],
-    y: [20, 75, 88, 98, 100, 100, 100, 100],
-    mode: 'lines+markers',
-    name: 'Performance Utility (%)',
-    line: {shape: 'spline', width: 4, color: '#1f77b4'},
-    marker: {size: 8}
-  };
-
-  var layout = {
-    title: 'The Law of Diminishing Returns in Pool Cues',
-    xaxis: {
-      type: 'log',
-      title: 'Price (USD) - Logarithmic Scale',
-      tickvals: [50, 150, 360, 550, 1200, 10000, 50000],
-      ticktext: ['$50', '$150 (Maple)', '$360 (Wood LD)', '$550 (Carbon)', '$1.2K', '$10K', '$50K+']
+{
+  "data": [
+    {
+      "x": [50, 200, 400, 550, 1200, 3500, 10000, 50000],
+      "y": [20, 75, 88, 98, 100, 100, 100, 100],
+      "mode": "lines+markers",
+      "name": "Performance Utility (%)",
+      "line": {
+        "shape": "spline",
+        "width": 4,
+        "color": "#1f77b4"
+      },
+      "marker": {
+        "size": 8
+      }
+    }
+  ],
+  "layout": {
+    "title": {
+      "text": "The Law of Diminishing Returns in Pool Cues"
     },
-    yaxis: {
-      title: 'Objective Performance (%)',
-      range: [0, 110]
+    "xaxis": {
+      "type": "log",
+      "title": {
+        "text": "Price (USD) - Logarithmic Scale"
+      },
+      "tickvals": [50, 200, 550, 1200, 10000, 50000],
+      "ticktext": ["$50", "$200", "$550 (Carbon Fiber)", "$1.2K", "$10K", "$50K+"]
     },
-    annotations: [
+    "yaxis": {
+      "title": {
+        "text": "Objective Performance (%)"
+      },
+      "range": [0, 110]
+    },
+    "annotations": [
       {
-        x: Math.log10(550),
-        y: 98,
-        xref: 'x', yref: 'y',
-        text: 'The Carbon Fiber Ceiling',
-        showarrow: true,
-        arrowhead: 2,
-        ax: -40,
-        ay: -40
+        "x": 2.74036,
+        "y": 98,
+        "xref": "x",
+        "yref": "y",
+        "text": "The Carbon Fiber Ceiling",
+        "showarrow": true,
+        "arrowhead": 2,
+        "ax": -40,
+        "ay": -40
       },
       {
-        x: Math.log10(10000),
-        y: 100,
-        xref: 'x', yref: 'y',
-        text: 'Value shifts entirely to Art/Prestige',
-        showarrow: true,
-        arrowhead: 2,
-        ax: 0,
-        ay: 40
+        "x": 4,
+        "y": 100,
+        "xref": "x",
+        "yref": "y",
+        "text": "Value shifts entirely to Art/Prestige",
+        "showarrow": true,
+        "arrowhead": 2,
+        "ax": 0,
+        "ay": 40
       }
     ],
-    hovermode: 'closest'
-  };
-
-  Plotly.newPlot('pool-economics-chart', [trace1], layout, {responsive: true});
-</script>
+    "hovermode": "closest"
+  }
+}
