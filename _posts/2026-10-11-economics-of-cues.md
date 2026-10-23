@@ -56,10 +56,27 @@ Just when you think a \\$10,000 cue is purely about conspicuous consumption, we 
 In Asian pool culture, particularly in Taiwan, custom cues are often considered superior for high-level play. While Western players rely heavily on the objective engineering of carbon fiber, Taiwanese coaches often argue that mass produced shafts lack "stopping power" or the solid feedback required for absolute elite cue ball control. 
 
 This introduces the economic concept of **Subjective Utility**. While a carbon fiber Predator can prove its low deflection with physics and data, the "hit" of an ebony Southwest provides a tactile feedback that elite players genuinely believe gives them a competitive edge. When a professional player feels they can control the cue ball 1% better because of how the wood resonates in their grip, that \\$10,000 price tag isn't conspicuous consumption anymore—it is a functional investment in their livelihood.
+## Economic Principle 2: Waitlist Arbitrage and Alternative Assets
+
+If you look closely at the secondary market for custom cues, you realize that a $10,000 Southwest or a $40,000 Zen isn't priced like sports equipment at all—it is priced like a financial asset.
+
+Consider the supply dynamics of Southwest Cues. Operating out of a small shop in Las Vegas, they refuse to scale up into mass production, resulting in **perfectly inelastic supply**. Today, the waitlist to buy a cue directly from Southwest is over 15 years long. Because the shop prices their cues below the true market-clearing equilibrium, getting your name on the waitlist is effectively acquiring a long-dated, deep-in-the-money call option. The day a buyer finally pays the retail price and takes delivery of their cue, they can immediately flip it on the secondary market for two to three times what they paid—a textbook example of **waitlist arbitrage** and economic rent.
+
+Furthermore, because the secondary market is decentralized, it faces what Nobel laureate George Akerlof called the **"Market for Lemons"**—information asymmetry where buyers fear counterfeits or hidden defects. To prevent market collapse, custom cue makers have built institutional trust mechanisms. Southwest stamps a unique 7-digit serial number onto the brass joint pin of every cue and issues official Letters of Authenticity, functioning like a micro-central bank verifying its own currency.
+
+## The Two Economies of the Pool Hall
+
+Ultimately, the extreme price curve of pool cues exists because the billiards market is actually **two completely different economies sharing the same pool tables**:
+
+1. **The Utility Economy ($100–$1000):** Governed by engineering, R&D competition, and diminishing marginal returns. A $550 carbon fiber shaft is a depreciating consumer durable—you buy it to pocket balls, and like a smartphone or a golf driver, it loses resale value the moment you chalk it.
+2. **The Asset & Artisan Economy ($5,000–$50,000+):** Governed by inelastic supply, Veblen signaling, subjective utility, and scarcity. A custom cue from a famous maker is an appreciating alternative asset, more akin to a Patek Philippe watch, a 1959 Gibson Les Paul, or a Carlo Bugatti designed furniture, than a tennis racket. 
+
+Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen years for a piece of hand turned wood comes down to what they are really optimizing for: minimizing cue ball deflection, chasing the elusive feel of "the hit," or holding a piece of functional art that appreciates between racks.
 
 ---
 
 ### Visualize the Market: Performance vs. Price
+
 ```plotly
 {
   "data": [
