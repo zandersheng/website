@@ -5,6 +5,8 @@ date: 2026-10-11
 description: "Exploring the extreme price variance of billiards equipment, the law of diminishing returns, and the Veblen goods of the pool hall."
 tags: [economics, billiards, sports-tech]
 categories: [economics-of-pool]
+chart:
+  plotly: true
 ---
 
 As a pool player and a financial economist, I have always found the economics of pool fascinating. So, I am starting this series to look at the economics of pool, beginning with a piece of equipment that defies almost every logical rule of the modern sports market. 
