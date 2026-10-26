@@ -32,24 +32,24 @@ If you actually play pool, you know the cue market doesn't work like that at all
 **Stage 1A: The First \\$100 (Basic Mechanical Competence)**
 Moving from a warped bar cue without a usable tip[ to a $100 entry-level cue like a **Viking Valhalla** or a **McDermott Lucky** yields the steepest return on investment in billiards. That first hundred dollars buys baseline mechanical competence: a straight maple shaft, a respectable single-layer leather tip, and a solid joint. At this stage, every dollar directly eliminates equipment-induced misses.
 
-**Stage 1B: The Budget Low-Deflection Climb (\\$100–\\$300)**
-Unlike what a casual player might assume, measurable quality continues to climb past the $100 mark up to around \\$250–\\$300, epitomized by cues like the **Cuetec AVID** series, or entry level carbon cues like **Rhino** or **Raven**. Moving from a $100 Lucky to a ~$275 Cuetec AVID Chroma or Rhino isn't just cosmetic, it unlocks entry-level **low-deflection (LD) technology**, making side spin application easier. You get a glass-bonded, vacuum sealed maple shaft with a lightened front end cavity on the avid or an entry level carbon fiber shaft from Rhino or Raven, that reduces cue-ball deflection on spin shots, paired with a multi-layered laminated tip (like a Tiger Everest) and a stiffer, warp-resistant construction.
+**Stage 1B: The Budget Low-Deflection Entry Point (\\$100–\\$300)**
+Unlike what a casual player might assume, measurable quality continues to climb past the $100 mark up to around \\$250–\\$300, epitomized by cues like the **Cuetec AVID** series, or entry level carbon cues like **Rhino** or **Raven**. Moving from a \\$100 Lucky to a ~\\$275 Cuetec AVID Chroma or Rhino isn't just cosmetic, it unlocks entry-level **low-deflection (LD) technology**, making side spin application easier. You get a glass-bonded, vacuum sealed maple shaft with a lightened front end cavity on the avid or an entry level carbon fiber shaft from Rhino or Raven, that reduces cue-ball deflection on spin shots, paired with a multi-layered laminated tip (like a Tiger Everest) and a stiffer, warp-resistant construction.
 
-**Plateau 1: The "Decal Dead Zone" (\\$300–\\$600)**
-Once you reach a Cuetec AVID or equivalent budget LD cue around $275, the objective performance curve hits a sudden wall. What happens if you spend \\$450 or \\$550 on an upgraded traditional cue? From a physics standpoint, **almost nothing**. 
+**Plateau 1: The "Dead Zone" (\\$300–\\$600)**
+Once you reach a Cuetec AVID or equivalent budget LD cue around \\$275, the objective performance curve hits a sudden wall. What happens if you spend \\$450 or \\$550 on an upgraded traditional cue? From a physics standpoint, **almost nothing**. 
 
 In fact, a $475 Cuetec AVID Opt-X uses the *exact same* $159 shaft as the $280 AVID Chroma. Because the next leap in shaft R&D (aerospace carbon fiber) is an "indivisible good"—you can't buy half a carbon-fiber tube—every extra dollar spent between \\$300 and \\$600 goes almost entirely toward cosmetic product differentiation: fancier decals, painted points, or better wraps.
 
 **Stage 2: The Carbon Fiber Jump (\\$600–\\$1,000)**
 To get another measurable boost in performance, you have to jump across the cosmetic plateau into the **\\$600 to \\$1,000 bracket**. 
 
-At $600 to $700, you unlock full carbon-fiber setups or advanced shafts like the **Cuetec SVB Gen 1 (Cynergy)**, **Bull Carbon**, or **McDermott Defy**, climbing up to around **$1,000** for an entry level **Predator with a REVO shaft** or a Mezz Ignite setup. Here, your money is buying aerospace grade carbon composite, radial consistency that never warps, and ultra low front-end mass that maximizes force transfer and minimizes deflection.
+At \\$600 to \\$700, you unlock full carbon-fiber setups or advanced shafts like the **Cuetec SVB Gen 1 (Cynergy)**, **Bull Carbon**, or **McDermott Defy**, climbing up to around **\\$1,000** for an entry level **Predator with a REVO shaft** or a Mezz Ignite setup. Here, your money is buying aerospace grade carbon composite, radial consistency that never warps, and ultra low front-end mass that maximizes force transfer and minimizes deflection.
 
 **Plateau 2: The "Feel" Regime (\\$1,000–\\$5,000)**
-Once you cross $1,000, **measurable objective performance hits a hard ceiling**. Spending $2,500 on a cue will not make the shaft deflect any less or the tip hold chalk any better. From $1,000 to $5,000, marginal dollars go toward **subjective feel**: balance points, exotic wood cores, joint pin stiffness, acoustic resonance, and intricate inlays instead of decals.
+Once you cross \\$1,000, **measurable objective performance hits a hard ceiling**. Spending $2,500 on a cue will not make the shaft deflect any less or the tip hold chalk any better. From $1,000 to $5,000, marginal dollars go toward **subjective feel**: balance points, exotic wood cores, joint pin stiffness, acoustic resonance, and intricate inlays instead of decals.
 
 **The Art & Asset Frontier (\\$5,000–\\$50,000+)**
-Once we cross $5,000 into the realm of Southwest, Black Boar, or a $40,000 Zen cue, we have left the sports equipment market entirely. These are **functional art pieces and Veblen goods**, governed by scarcity, decade-long waitlists, and artisan prestige rather than shot-making physics.
+Once we cross \\$5,000 into the realm of Southwest, Black Boar, or a \\$40,000 Zen cue, we have left the sports equipment market entirely. These are **functional art pieces and Veblen goods**, governed by scarcity, decade-long waitlists, and artisan prestige rather than shot-making physics.
 
 ## The Exception: Subjective Utility and "The Hit"
 
