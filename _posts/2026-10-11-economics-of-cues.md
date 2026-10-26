@@ -11,7 +11,7 @@ chart:
 
 As a pool player and a financial economist, I have always found the economics of pool fascinating. So, I am starting this series to look at the economics of pool, beginning with a piece of equipment that defies almost every logical rule of the modern sports market. 
 
-Imagine the finals of a World 9-Ball Championship. The lights are hot, the crowd is silent, and hundreds of thousands of dollars ($250,000 to the winner!) are on the line. When a player steps up to the table to face a table-length tough shot, you would expect them to be holding the absolute pinnacle of modern sports engineering, likely a lab tested, carbon fiber cue provided by a massive corporate sponsor. 
+Imagine the finals of a World 9-Ball Championship. The lights are hot, the crowd is silent, and hundreds of thousands of dollars (\\$250,000 to the winner!) are on the line. When a player steps up to the table to face a table-length tough shot, you would expect them to be holding the absolute pinnacle of modern sports engineering, likely a lab tested, carbon fiber cue provided by a massive corporate sponsor. 
 
 But for years, if you watched World Champions like Taiwan's Ko Pin-yi or his brothers, you would see something completely different. 
 
@@ -29,26 +29,26 @@ In Intro to Economics, the Law of Diminishing Marginal Returns is always drawn a
 
 If you actually play pool, you know the cue market doesn't work like that at all. Instead of a smooth curve, pool cues follow a **step-function technology frontier** separated by flat plateaus where your money buys little extra performance.
 
-**Stage 1A: The First $100 (Basic Mechanical Competence)**
-Moving from a warped, rock-hard $20 bar cue to a $100 entry-level cue like a **Viking Valhalla** or a **McDermott Lucky** yields the steepest return on investment in billiards. That first hundred dollars buys baseline mechanical competence: a straight maple shaft, a respectable single-layer leather tip, and a solid joint. At this stage, every dollar directly eliminates equipment-induced misses.
+**Stage 1A: The First \\$100 (Basic Mechanical Competence)**
+Moving from a warped bar cue without a usable tip[ to a $100 entry-level cue like a **Viking Valhalla** or a **McDermott Lucky** yields the steepest return on investment in billiards. That first hundred dollars buys baseline mechanical competence: a straight maple shaft, a respectable single-layer leather tip, and a solid joint. At this stage, every dollar directly eliminates equipment-induced misses.
 
-**Stage 1B: The Budget Low-Deflection Climb ($100–$300)**
-Unlike what a casual player might assume, measurable quality continues to climb past the $100 mark up to around $250–$300, epitomized by cues like the **Cuetec AVID** series, or entry level carbon cues like **Rhino** or **Raven**. Moving from a $100 Lucky to a ~$275 Cuetec AVID Chroma or Rhino isn't just cosmetic, it unlocks entry-level **low-deflection (LD) technology**, making side spin application easier. You get a glass-bonded, vacuum sealed maple shaft with a lightened front end cavity on the avid or an entry level carbon fiber shaft from Rhino or Raven, that reduces cue-ball deflection on spin shots, paired with a multi-layered laminated tip (like a Tiger Everest) and a stiffer, warp-resistant construction.
+**Stage 1B: The Budget Low-Deflection Climb (\\$100–\\$300)**
+Unlike what a casual player might assume, measurable quality continues to climb past the $100 mark up to around \\$250–\\$300, epitomized by cues like the **Cuetec AVID** series, or entry level carbon cues like **Rhino** or **Raven**. Moving from a $100 Lucky to a ~$275 Cuetec AVID Chroma or Rhino isn't just cosmetic, it unlocks entry-level **low-deflection (LD) technology**, making side spin application easier. You get a glass-bonded, vacuum sealed maple shaft with a lightened front end cavity on the avid or an entry level carbon fiber shaft from Rhino or Raven, that reduces cue-ball deflection on spin shots, paired with a multi-layered laminated tip (like a Tiger Everest) and a stiffer, warp-resistant construction.
 
-**Plateau 1: The "Decal Dead Zone" ($300–$600)**
-Once you reach a Cuetec AVID or equivalent budget LD cue around $275, the objective performance curve hits a sudden wall. What happens if you spend $450 or $550 on an upgraded traditional cue? From a physics standpoint, **almost nothing**. 
+**Plateau 1: The "Decal Dead Zone" (\\$300–\\$600)**
+Once you reach a Cuetec AVID or equivalent budget LD cue around $275, the objective performance curve hits a sudden wall. What happens if you spend \\$450 or \\$550 on an upgraded traditional cue? From a physics standpoint, **almost nothing**. 
 
-In fact, a $475 Cuetec AVID Opt-X uses the *exact same* $159 shaft as the $280 AVID Chroma. Because the next leap in shaft R&D (aerospace carbon fiber) is an "indivisible good"—you can't buy half a carbon-fiber tube—every extra dollar spent between $300 and $600 goes almost entirely toward **cosmetic product differentiation**: fancier decals, painted points, or leather wraps.
+In fact, a $475 Cuetec AVID Opt-X uses the *exact same* $159 shaft as the $280 AVID Chroma. Because the next leap in shaft R&D (aerospace carbon fiber) is an "indivisible good"—you can't buy half a carbon-fiber tube—every extra dollar spent between \\$300 and \\$600 goes almost entirely toward cosmetic product differentiation: fancier decals, painted points, or better wraps.
 
-**Stage 2: The Carbon Fiber Jump ($600–$1,000)**
-To get another measurable boost in performance, you have to jump across the cosmetic plateau into the **$600 to $1,000 bracket**. 
+**Stage 2: The Carbon Fiber Jump (\\$600–\\$1,000)**
+To get another measurable boost in performance, you have to jump across the cosmetic plateau into the **\\$600 to \\$1,000 bracket**. 
 
 At $600 to $700, you unlock full carbon-fiber setups or advanced shafts like the **Cuetec SVB Gen 1 (Cynergy)**, **Bull Carbon**, or **McDermott Defy**, climbing up to around **$1,000** for an entry level **Predator with a REVO shaft** or a Mezz Ignite setup. Here, your money is buying aerospace grade carbon composite, radial consistency that never warps, and ultra low front-end mass that maximizes force transfer and minimizes deflection.
 
-**Plateau 2: The "Feel" Regime ($1,000–$5,000)**
+**Plateau 2: The "Feel" Regime (\\$1,000–\\$5,000)**
 Once you cross $1,000, **measurable objective performance hits a hard ceiling**. Spending $2,500 on a cue will not make the shaft deflect any less or the tip hold chalk any better. From $1,000 to $5,000, marginal dollars go toward **subjective feel**: balance points, exotic wood cores, joint pin stiffness, acoustic resonance, and intricate inlays instead of decals.
 
-**The Art & Asset Frontier ($5,000–$50,000+)**
+**The Art & Asset Frontier (\\$5,000–\\$50,000+)**
 Once we cross $5,000 into the realm of Southwest, Black Boar, or a $40,000 Zen cue, we have left the sports equipment market entirely. These are **functional art pieces and Veblen goods**, governed by scarcity, decade-long waitlists, and artisan prestige rather than shot-making physics.
 
 ## The Exception: Subjective Utility and "The Hit"
@@ -61,7 +61,7 @@ This introduces the economic concept of **Subjective Utility**. While a carbon f
 
 ## Economic Principle 2: Waitlist Arbitrage and Alternative Assets
 
-If you look closely at the secondary market for custom cues, you realize that a $10,000 Southwest or a $40,000 Zen isn't priced like sports equipment at all—it is priced like a financial asset.
+If you look closely at the secondary market for custom cues, you realize that a \\$10,000 Southwest or a \\$40,000 Zen isn't priced like sports equipment at all—it is priced like a financial asset.
 
 Consider the supply dynamics of Southwest Cues. Operating out of a small shop in Las Vegas, they refuse to scale up into mass production, resulting in **perfectly inelastic supply**. Today, the waitlist to buy a cue directly from Southwest is over 18 to 20 years long. Because the shop prices their cues below the true market-clearing equilibrium, getting your name on the waitlist is effectively acquiring a long-dated, deep-in-the-money call option. The day a buyer finally pays the retail price and takes delivery of their cue, they can immediately flip it on the secondary market for two to three times what they paid—a textbook example of **waitlist arbitrage** and economic rent.
 
@@ -71,8 +71,8 @@ Furthermore, because the secondary market is decentralized, it faces what Nobel 
 
 Ultimately, the extreme price curve of pool cues exists because the billiards market is actually **two completely different economies sharing the same pool tables**:
 
-1. **The Utility Economy ($100–$1000):** Governed by engineering, R&D competition, and diminishing marginal returns. A $550 carbon fiber shaft is a depreciating consumer durable—you buy it to pocket balls, and like a smartphone or a golf driver, it loses resale value the moment you chalk it.
-2. **The Asset & Artisan Economy ($5,000–$50,000+):** Governed by inelastic supply, Veblen signaling, subjective utility, and scarcity. A custom cue from a famous maker is an appreciating alternative asset, more akin to a Patek Philippe watch, a 1959 Gibson Les Paul, or a Carlo Bugatti designed furniture, than a tennis racket. 
+1. **The Utility Economy (\\$100–\\$1000):** Governed by engineering, R&D competition, and diminishing marginal returns. A \\$550 carbon fiber shaft is a depreciating consumer durable—you buy it to pocket balls, and like a smartphone or a golf driver, it loses resale value the moment you chalk it.
+2. **The Asset & Artisan Economy (\\$5,000–\\$50,000+):** Governed by inelastic supply, Veblen signaling, subjective utility, and scarcity. A custom cue from a famous maker is an appreciating alternative asset, more akin to a Patek Philippe watch, a 1959 Gibson Les Paul, or a Carlo Bugatti designed furniture, than a tennis racket. 
 
 Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen years for a piece of hand turned wood comes down to what they are really optimizing for: minimizing cue ball deflection, chasing the elusive feel of "the hit," or holding a piece of functional art that appreciates between racks.
 
@@ -97,14 +97,14 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "size": 9
       },
       "text": [
-        "Warped Bar Cue ($20)",
-        "Viking Valhalla / McDermott Lucky ($100)",
-        "Cuetec AVID / Budget LD ($275)",
-        "Upgraded Decal / Mid-Tier Cue ($550)",
-        "Cuetec SVB / Bull Carbon / Defy ($650)",
-        "Entry Predator w/ REVO ($1,000)",
-        "High-End Custom / Feel ($5,000)",
-        "Zen / Luxury Art Piece ($50,000)"
+        "Bar Cue (\\$20)",
+        "Viking Valhalla / McDermott Lucky (\\$100)",
+        "Cuetec AVID / Budget LD (\\$275)",
+        "Upgraded Decal / Mid-Tier Cue (\\$550)",
+        "Cuetec SVB / Bull Carbon / Defy (\\$650)",
+        "Entry Predator w/ REVO (\\$1,000)",
+        "High-End Custom / Feel (\\$5,000)",
+        "Zen / Luxury Art Piece (\\$50,000)"
       ],
       "hovertemplate": "<b>%{text}</b><br>Price: $%{x}<br>Measurable Utility: %{y}%<extra></extra>"
     }
@@ -119,7 +119,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "text": "Price (USD) - Logarithmic Scale"
       },
       "tickvals": [20, 100, 275, 650, 1000, 5000, 50000],
-      "ticktext": ["$20", "$100 (Lucky)", "$275 (AVID)", "$650 (SVB)", "$1K (REVO)", "$5K", "$50K+"]
+      "ticktext": ["\\$20", "\\$100 (Lucky)", "\\$275 (AVID)", "\\$650 (SVB)", "\\$1K (REVO)", "\\$5K", "\\$50K+"]
     },
     "yaxis": {
       "title": {
@@ -133,7 +133,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 65,
         "xref": "x",
         "yref": "y",
-        "text": "Step 1A: Straight Maple ($100)",
+        "text": "Step 1A: Straight Maple (\\$100)",
         "showarrow": true,
         "arrowhead": 2,
         "ax": -35,
@@ -144,7 +144,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 82,
         "xref": "x",
         "yref": "y",
-        "text": "Step 1B: Budget LD / Cuetec AVID ($275)",
+        "text": "Step 1B: Budget LD / Cuetec AVID (\\$275)",
         "showarrow": true,
         "arrowhead": 2,
         "ax": -20,
@@ -155,7 +155,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 82.5,
         "xref": "x",
         "yref": "y",
-        "text": "The 'Decal Dead Zone' ($300-$600)",
+        "text": "The 'Dead Zone' (\\$300-\\$600)",
         "showarrow": true,
         "arrowhead": 2,
         "ax": 10,
@@ -166,7 +166,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 99,
         "xref": "x",
         "yref": "y",
-        "text": "Step 2: Carbon Fiber Ceiling ($650-$1K)",
+        "text": "Step 2: Carbon Fiber Ceiling (\\$650-\\$1K)",
         "showarrow": true,
         "arrowhead": 2,
         "ax": -30,
@@ -177,7 +177,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 100,
         "xref": "x",
         "yref": "y",
-        "text": "$5K+: Pure 'Feel' & Art Pieces",
+        "text": "\\$5K+: Pure 'Feel' & Art Pieces",
         "showarrow": true,
         "arrowhead": 2,
         "ax": 0,
