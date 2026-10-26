@@ -38,7 +38,7 @@ Unlike what a casual player might assume, measurable quality continues to climb 
 **Plateau 1: The "Dead Zone" (\\$300–\\$600)**
 Once you reach a Cuetec AVID or equivalent budget LD cue around \\$275, the objective performance curve hits a sudden wall. What happens if you spend \\$450 or \\$550 on an upgraded traditional cue? From a physics standpoint, **almost nothing**. 
 
-In fact, a $475 Cuetec AVID Opt-X uses the *exact same* $159 shaft as the $280 AVID Chroma. Because the next leap in shaft R&D (aerospace carbon fiber) is an "indivisible good"—you can't buy half a carbon-fiber tube—every extra dollar spent between \\$300 and \\$600 goes almost entirely toward cosmetic product differentiation: fancier decals, painted points, or better wraps.
+In fact, a \\$475 Cuetec AVID Opt-X uses the *exact same* \\$159 shaft as the \\$280 AVID Chroma. Because the next leap in shaft R&D (aerospace carbon fiber) is an "indivisible good"—you can't buy half a carbon-fiber tube—every extra dollar spent between \\$300 and \\$600 goes almost entirely toward cosmetic product differentiation: fancier decals, painted points, or better wraps.
 
 **Stage 2: The Carbon Fiber Jump (\\$600–\\$1,000)**
 To get another measurable boost in performance, you have to jump across the cosmetic plateau into the **\\$600 to \\$1,000 bracket**. 
@@ -97,14 +97,14 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "size": 9
       },
       "text": [
-        "Bar Cue (\\$20)",
-        "Viking Valhalla / McDermott Lucky (\\$100)",
-        "Cuetec AVID / Budget LD (\\$275)",
-        "Upgraded Decal / Mid-Tier Cue (\\$550)",
-        "Cuetec SVB / Bull Carbon / Defy (\\$650)",
-        "Entry Predator w/ REVO (\\$1,000)",
-        "High-End Custom / Feel (\\$5,000)",
-        "Zen / Luxury Art Piece (\\$50,000)"
+        "Bar Cue ($20)",
+        "Viking Valhalla / McDermott Lucky ($100)",
+        "Cuetec AVID / Budget LD ($275)",
+        "Upgraded Decal / Mid-Tier Cue ($550)",
+        "Cuetec SVB / Bull Carbon / Defy ($650)",
+        "Entry Predator w/ REVO ($1,000)",
+        "High-End Custom / Feel ($5,000)",
+        "Zen / Luxury Art Piece ($50,000)"
       ],
       "hovertemplate": "<b>%{text}</b><br>Price: $%{x}<br>Measurable Utility: %{y}%<extra></extra>"
     }
@@ -119,7 +119,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "text": "Price (USD) - Logarithmic Scale"
       },
       "tickvals": [20, 100, 275, 650, 1000, 5000, 50000],
-      "ticktext": ["\\$20", "\\$100 (Lucky)", "\\$275 (AVID)", "\\$650 (SVB)", "\\$1K (REVO)", "\\$5K", "\\$50K+"]
+      "ticktext": ["$20", "$100 (Lucky)", "$275 (AVID)", "$650 (SVB)", "$1K (REVO)", "$5K", "$50K+"]
     },
     "yaxis": {
       "title": {
@@ -133,7 +133,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 65,
         "xref": "x",
         "yref": "y",
-        "text": "Step 1A: Straight Maple (\\$100)",
+        "text": "Step 1A: Straight Maple ($100)",
         "showarrow": true,
         "arrowhead": 2,
         "ax": -35,
@@ -144,7 +144,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 82,
         "xref": "x",
         "yref": "y",
-        "text": "Step 1B: Budget LD / Cuetec AVID (\\$275)",
+        "text": "Step 1B: Budget LD / Cuetec AVID ($275)",
         "showarrow": true,
         "arrowhead": 2,
         "ax": -20,
@@ -155,7 +155,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 82.5,
         "xref": "x",
         "yref": "y",
-        "text": "The 'Dead Zone' (\\$300-\\$600)",
+        "text": "The 'Dead Zone' ($300-$600)",
         "showarrow": true,
         "arrowhead": 2,
         "ax": 10,
@@ -166,7 +166,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 99,
         "xref": "x",
         "yref": "y",
-        "text": "Step 2: Carbon Fiber Ceiling (\\$650-\\$1K)",
+        "text": "Step 2: Carbon Fiber Ceiling ($650-$1K)",
         "showarrow": true,
         "arrowhead": 2,
         "ax": -30,
@@ -177,7 +177,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 100,
         "xref": "x",
         "yref": "y",
-        "text": "\\$5K+: Pure 'Feel' & Art Pieces",
+        "text": "$5K+: Pure 'Feel' & Art Pieces",
         "showarrow": true,
         "arrowhead": 2,
         "ax": 0,
