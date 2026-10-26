@@ -43,10 +43,10 @@ In fact, a $475 Cuetec AVID Opt-X uses the *exact same* $159 shaft as the $280 A
 **Stage 2: The Carbon Fiber Jump (\\$600–\\$1,000)**
 To get another measurable boost in performance, you have to jump across the cosmetic plateau into the **\\$600 to \\$1,000 bracket**. 
 
-At \\$600 to \\$700, you unlock full carbon-fiber setups or advanced shafts like the **Cuetec SVB Gen 1 (Cynergy)**, **Bull Carbon**, or **McDermott Defy**, climbing up to around **\\$1,000** for an entry level **Predator with a REVO shaft** or a Mezz Ignite setup. Here, your money is buying aerospace grade carbon composite, radial consistency that never warps, and ultra low front-end mass that maximizes force transfer and minimizes deflection.
+At \\$600 to \\$700, you unlock full carbon-fiber setups or advanced shafts like the **Cuetec SVB Gen 1 (Cynergy)**, **Bull Carbon**, or **McDermott Defy**, climbing up to around **\\$1,000** for an entry level **Predator cue with a REVO shaft** or a Mezz Ignite setup. Here, your money is buying aerospace grade carbon composite, radial consistency that never warps, and ultra low front-end mass that maximizes force transfer and minimizes deflection.
 
 **Plateau 2: The "Feel" Regime (\\$1,000–\\$5,000)**
-Once you cross \\$1,000, **measurable objective performance hits a hard ceiling**. Spending $2,500 on a cue will not make the shaft deflect any less or the tip hold chalk any better. From $1,000 to $5,000, marginal dollars go toward **subjective feel**: balance points, exotic wood cores, joint pin stiffness, acoustic resonance, and intricate inlays instead of decals.
+Once you cross \\$1,000, **measurable objective performance hits a hard ceiling**. Spending \\$2,500 on a cue will not make the shaft deflect any less or the tip hold chalk any better. From \\$1,000 to \\$5,000, marginal dollars go toward **subjective feel**: balance points, exotic wood cores, joint pin stiffness, acoustic resonance, and intricate inlays instead of decals.
 
 **The Art & Asset Frontier (\\$5,000–\\$50,000+)**
 Once we cross \\$5,000 into the realm of Southwest, Black Boar, or a \\$40,000 Zen cue, we have left the sports equipment market entirely. These are **functional art pieces and Veblen goods**, governed by scarcity, decade-long waitlists, and artisan prestige rather than shot-making physics.
