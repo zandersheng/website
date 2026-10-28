@@ -86,6 +86,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
     {
       "x": [20, 100, 275, 550, 650, 1000, 5000, 50000],
       "y": [15, 65, 82, 83, 93, 99, 100, 100],
+      "type": "scatter",
       "mode": "lines+markers",
       "name": "Measurable Performance (%)",
       "line": {
@@ -97,16 +98,15 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "size": 9
       },
       "text": [
-        "Bar Cue ($20)",
-        "Viking Valhalla / McDermott Lucky ($100)",
-        "Cuetec AVID / Budget LD ($275)",
-        "Upgraded Decal / Mid-Tier Cue ($550)",
-        "Cuetec SVB / Bull Carbon / Defy ($650)",
-        "Entry Predator w/ REVO ($1,000)",
-        "High-End Custom / Feel ($5,000)",
-        "Zen / Luxury Art Piece ($50,000)"
-      ],
-      "hovertemplate": "<b>%{text}</b><br>Price: $%{x}<br>Measurable Utility: %{y}%<extra></extra>"
+        "Bar Cue",
+        "Viking Valhalla / McDermott Lucky",
+        "Cuetec AVID / Budget LD",
+        "Upgraded Decal / Mid-Tier Cue",
+        "Cuetec SVB / Bull Carbon / Defy",
+        "Entry Predator w/ REVO",
+        "High-End Custom / Feel",
+        "Zen / Luxury Art Piece"
+      ]
     }
   ],
   "layout": {
@@ -118,13 +118,15 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
       "title": {
         "text": "Price (USD) - Logarithmic Scale"
       },
+      "tickprefix": "$",
       "tickvals": [20, 100, 275, 650, 1000, 5000, 50000],
-      "ticktext": ["$20", "$100 (Lucky)", "$275 (AVID)", "$650 (SVB)", "$1K (REVO)", "$5K", "$50K+"]
+      "ticktext": ["20", "100 (Lucky)", "275 (AVID)", "650 (SVB)", "1K (REVO)", "5K", "50K+"]
     },
     "yaxis": {
       "title": {
         "text": "Measurable Performance Utility (%)"
       },
+      "ticksuffix": "%",
       "range": [0, 112]
     },
     "annotations": [
@@ -133,7 +135,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 65,
         "xref": "x",
         "yref": "y",
-        "text": "Step 1A: Straight Maple ($100)",
+        "text": "Step 1A: Straight Maple",
         "showarrow": true,
         "arrowhead": 2,
         "ax": -35,
@@ -144,7 +146,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 82,
         "xref": "x",
         "yref": "y",
-        "text": "Step 1B: Budget LD / Cuetec AVID ($275)",
+        "text": "Step 1B: Budget LD / AVID",
         "showarrow": true,
         "arrowhead": 2,
         "ax": -20,
@@ -155,7 +157,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 82.5,
         "xref": "x",
         "yref": "y",
-        "text": "The 'Dead Zone' ($300-$600)",
+        "text": "Dead Zone (300-600 USD)",
         "showarrow": true,
         "arrowhead": 2,
         "ax": 10,
@@ -166,7 +168,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 99,
         "xref": "x",
         "yref": "y",
-        "text": "Step 2: Carbon Fiber Ceiling ($650-$1K)",
+        "text": "Step 2: Carbon Fiber Ceiling",
         "showarrow": true,
         "arrowhead": 2,
         "ax": -30,
@@ -177,7 +179,7 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
         "y": 100,
         "xref": "x",
         "yref": "y",
-        "text": "$5K+: Pure 'Feel' & Art Pieces",
+        "text": "5K+ USD: Pure Feel and Art",
         "showarrow": true,
         "arrowhead": 2,
         "ax": 0,
@@ -188,4 +190,3 @@ Whether a player chooses a lab engineered carbon fiber shaft or waits fifteen ye
   }
 }
 ```
-
