@@ -118,6 +118,7 @@
     },
     {
       "name": "Optimal Renovation and Lease Renewal in a Principal-Agent Framework",
+      "title": "Optimal Renovation and Lease Renewal in a Principal-Agent Framework",
       "publisher": "Working Paper",
       "releaseDate": "2026",
       "authors": [
@@ -126,6 +127,7 @@
     },
     {
       "name": "Rogue Agent: The Economics of Compute in the Agentic Age",
+      "title":"Rogue Agent: The Economics of Compute in the Agentic Age",
       "publisher": "Working Paper",
       "releaseDate": "2026",
       "authors": [
@@ -135,6 +137,7 @@
     },
     {
       "name": "Price to Rent Ratio",
+      "title":"Price to Rent Ratio - A Leverage Variance Decomposition",
       "publisher": "Work in Progress",
       "authors": [
         "Xuran (Alex) Sheng"
