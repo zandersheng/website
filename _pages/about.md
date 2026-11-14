@@ -30,5 +30,9 @@ Alex Sheng is a PhD candidate in Economics at the University of Virginia and a f
 Alex finished his undergraduate studies at the University of Wisconsin – Madison where he studied Computer Science, Mathematics, and Economics. He also worked as a sports videographer at UW Madison. When Alex is not doing research or teaching, he enjoys collegiate pool competitions as the captain of the club billiards team at UVA. He also enjoys playing tennis and other racket sports.
 
 Job Market Paper:<a href="{{ '/assets/pdf/Infrequent_Trading_v5.pdf' | relative_url }}" target="_blank">
-  Infrequent Trading, Asymmetrical Asset Price Volatility, and Welfare Loss
+  Infrequent Trading, Price Distortion, and Asymmetrical Welfare Loss
+</a>
+
+Research Statement:<a href="{{ '/assets/pdf/Research_Statement_Finance.pdf' | relative_url }}" target="_blank">
+  Statement of Research Interests
 </a>
